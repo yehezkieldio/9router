@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fork Sync"
+  short_description: "Sync a 9router fork with upstream"
+  default_prompt: "Use $fork-sync to reconcile this 9router fork with upstream, preserve local commits, and push the result to origin."
