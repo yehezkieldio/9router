@@ -77,3 +77,6 @@ gitbook/README.md
 open-sse.old/
 .graphifyignore
 graphify-out/*
+
+server
+server-entry.js.map
